@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rg7CqH4IyKULN5SPTejmu9VZJrYwQ3ZjZdnmT7B3bCequFej31JwF53DNwV8wB72lAAYgmtLGIC/J70uB1v0eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronan\\Desktop\\Prog\\fsharp\\fizzbuzz\\FizzBuzz\\FizzBuzz.CLI\\FizzBuzz.CLI.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronan\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.deps.json
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.dll
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.pdb
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.xml
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.fsproj.AssemblyReference.cache
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfo.fs
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.dll
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.xml
+C:\Users\Ronan\Desktop\Prog\fsharp\fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.pdb
